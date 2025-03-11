@@ -29,7 +29,7 @@ This web application provides a real-time system for counting passengers enterin
 
 ### Prerequisites
 
-* A web browser (Chrome, Firefox, Safari, etc.)
+* A web browser (Chrome, Firefox, Safari, Brave etc.)
 * (If frontend is involved)
     * js
     * Python (if using Python)
